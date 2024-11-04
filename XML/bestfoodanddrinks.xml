@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foodsAndDrinks>
+    <food>
+        <type vegan="false" glutenFree="false">Burger</type>
+        <ingredients natural="true" fresh="true">Bun, meat, lettuce, tomato</ingredients>
+        <weight servingSize="One plate" unit="grams">500</weight>
+        <kcal per100Grams="true" protein="20g">700</kcal>
+    </food>
+    <food>
+        <type vegan="true" glutenFree="true">French fries</type>
+        <ingredients natural="true" fresh="true">Potato, salt</ingredients>
+        <weight servingSize="One plate" unit="grams">300</weight>
+        <kcal per100Grams="true" protein="5g">400</kcal>
+    </food>
+    <food>
+        <type vegan="true" glutenFree="true">Salad</type>
+        <ingredients natural="true" fresh="true">Lettuce, cucumber, dressing</ingredients>
+        <weight servingSize="One bowl" unit="grams">200</weight>
+        <kcal per100Grams="true" protein="5g">150</kcal>
+    </food>
+    <drink>
+        <type containsSugar="true" isNatural="false">Cola</type>
+        <ingredients natural="false" fresh="false">Carbonated water, sugar, caffeine</ingredients>
+        <weight servingSize="One can" unit="milliliters">330</weight>
+        <kcal per100Mililiters="true" protein="0g">140</kcal>
+    </drink>
+    <drink>
+        <type containsSugar="false" isNatural="true">Water</type>
+        <ingredients natural="true" fresh="true">H2O</ingredients>
+        <weight servingSize="One bottle" unit="milliliters">500</weight>
+        <kcal per100Mililiters="true" protein="0g">0</kcal>
+    </drink>
+    <drink>
+        <type containsSugar="true" isNatural="true">Orange Juice</type>
+        <ingredients natural="true" fresh="true">Oranges</ingredients>
+        <weight servingSize="One glass" unit="milliliters">250</weight>
+        <kcal per100Mililiters="true" protein="0g">120</kcal>
+    </drink>
+</foodsAndDrinks>
