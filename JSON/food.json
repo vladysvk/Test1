@@ -1,0 +1,16 @@
+{
+    "type": "Burger",
+    "weightInGrams": 300,
+    "price": 12.50,
+    "isVegan": false,
+    "glutenFree": false,
+    "ingredients": ["meat", "bun", "lettuce", "tomato"],
+    "typesOfIngredients": {
+        "meat": "beef",
+        "bun": "white bread",
+        "tomato": "red",
+        "lettuce": "green"
+    }, 
+    "kcalPer100Grams": 700,
+    "proteinInGrams": 20
+}

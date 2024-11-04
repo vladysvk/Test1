@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<FoodAndDrink>
+    <Item>
+        <Type>Coffee</Type>
+        <Name>Espresso</Name>
+        <Size>Small</Size>
+        <Price>8.00 PLN</Price>
+    </Item>
+    <Item>
+        <Type>Tea</Type>
+        <Name>Green Tea</Name>
+        <Size>Medium</Size>
+        <Price>7.00 PLN</Price>
+    </Item>
+    <Item>
+        <Type>Snack</Type>
+        <Name>Croissant</Name>
+        <Size>Single</Size>
+        <Price>5.50 PLN</Price>
+    </Item>
+    <Item>
+        <Type>Meal</Type>
+        <Name>Pasta</Name>
+        <Size>Big</Size>
+        <Price>22.00 PLN</Price>
+    </Item>
+    <Item>
+        <Type>Dessert</Type>
+        <Name>Chocolate Cake</Name>
+        <Size>Slice</Size>
+        <Price>10.00 PLN</Price>
+    </Item>
+    <Item>
+        <Type>Beverage</Type>
+        <Name>Mineral Water</Name>
+        <Size>500 ml</Size>
+        <Price>4.00 PLN</Price>
+    </Item>
+</FoodAndDrink>
